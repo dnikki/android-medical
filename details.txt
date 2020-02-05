@@ -1,0 +1,1 @@
+This application would enabe people search for the nearest medical store or tp get best deals on their requirements in their neraby location.
